@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 7\Final Lab 7\bin\Debug\Final Lab 7.exe.config
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 7\Final Lab 7\bin\Debug\Final Lab 7.exe
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 7\Final Lab 7\bin\Debug\Final Lab 7.pdb
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.exe
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.pdb
