@@ -1,7 +1,0 @@
-C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 1\Final Lab 1\bin\Debug\Final Lab 1.exe.config
-C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 1\Final Lab 1\bin\Debug\Final Lab 1.exe
-C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 1\Final Lab 1\bin\Debug\Final Lab 1.pdb
-C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 1\Final Lab 1\obj\Debug\Final Lab 1.csprojAssemblyReference.cache
-C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 1\Final Lab 1\obj\Debug\Final Lab 1.csproj.CoreCompileInputs.cache
-C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 1\Final Lab 1\obj\Debug\Final Lab 1.exe
-C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Final\Lab\Final Lab 1\Final Lab 1\obj\Debug\Final Lab 1.pdb
