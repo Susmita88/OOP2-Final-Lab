@@ -11,20 +11,22 @@ namespace Final_Lab_2
     {
         static void Main(string[] args)
         {
-            Faculty f = new Faculty("Tanvir Ahmed", "1901-1955-2");  // Adding Faculty
-            Faculty a = new Faculty("Mir Riyanul Islam ", "190-1955-2");
 
-            Department c = new Department("CS", "3242");  // Creating department
+            Faculty a = new Faculty("Syeda Anika Tasnim", "2001-2048-2");
+            Faculty f = new Faculty("Tanvir Ahmed", "1901-1955-2");  
+            
+
+            Department c = new Department("CS", "1234");  
             c.AddFaculty(f);
             c.AddFaculty(a);
             c.ShowFaculty();
             Console.WriteLine();
 
-            c.SearchFaculty("1901-1955-2");       // Searching a specific Faculty
-            c.RemoveFaculty(a);                   // Removing a specific Faculty
+            c.SearchFaculty("1901-1955-2");       
+            c.RemoveFaculty(a);                  
 
             Console.WriteLine();
-            c.ShowFaculty();                      // Displaying new faculty list after deletion
+            c.ShowFaculty();                      
 
         }
     }
